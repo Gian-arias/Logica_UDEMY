@@ -1,6 +1,6 @@
 
 	Algoritmo ordenacion
-		// Declarar variables individualmente
+		
 		a <- 2
 		b <- 7
 		c <- 1
